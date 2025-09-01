@@ -1,11 +1,16 @@
-🌟 Entusiasta de crear aplicaciones intuitivas, rápidas y bien estructuradas
+# 👋 ¡Hola! Soy Carlos Casares
 
-⚙️ Experiencia con Java, Spring Boot, JavaScript, React, HTML y CSS
+💻 **Desarrollador Web**  
 
-🚀 Me enfoco en escalabilidad, mantenibilidad y rendimiento en cada proyecto
+🌟 Me apasiona crear aplicaciones intuitivas y bien diseñadas  
 
-📚 Apasionado por seguir aprendiendo nuevas tecnologías y metodologías ágiles
+⚙️ Trabajo con:  
+- Java & Spring Boot  
+- JavaScript & React  
+- HTML & CSS  
 
-🛠️ Defensor del código limpio, la colaboración y el aprendizaje en equipo
+🚀 Enfoque en escalabilidad, mantenibilidad y rendimiento  
 
-🔍 Interesado en arquitectura de software, testing y buenas prácticas
+📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas  
+
+🛠️ Amante del clean code, testing y desarrollo ágil  
